@@ -15,4 +15,5 @@ O layout e o adaptador do listview era composto por 3 TextViews, username, url d
 
 ### Mostrar o total de usuários do Hemisfério Sul
 Criei um contador para todas situações em que a latitude fosse negativa no fragment StatisticView. Para melhor visualização dos dados criei um menu para separando a lista de websites da quantidade de usuários de cada hemisfério.
+
 ![alt text](https://image.ibb.co/cxsFJ7/img3.jpg) ![alt text](https://image.ibb.co/jLL7WS/img4.jpg)
